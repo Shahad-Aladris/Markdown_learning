@@ -1,7 +1,6 @@
-<h1 align="center"> Markdown_learning <h1>
-<h2 align="left"> Det är inte svårt att man lära sig Markdown språk <h1>
-<h3 align="LEFT">Hej 👋, Jag är Shahad</h3>
-<p align="left">
+# Markdown_learning
+##  Det är inte svårt att man lära sig Markdown språk 
+ ### Hej 👋, Jag är Shahad
 
 - 🔭 Jag pluggar till **moln och virtualiseringsspecialist** </p>
  <p align="left"> Jag jobbar som DJ på fritiden. </p>
